@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-  color:#000;
+  color:#ddd;
   font-size: 48px;
   margin-bottom: 20px;
 }
@@ -59,7 +59,7 @@ body {
     url('imageedit_13_6085720808.jpg'), 
     url('imageedit_14_3641601625.jpg'), 
     url('imageedit_12_2655994414.jpg');
-  background-size: 25%, 25%, 25%, 25%;
+  background-size: 50%, 50%, 50%, 50%;
   background-repeat: no-repeat;
   background-position: top left, bottom left, top right, bottom right;
 }
